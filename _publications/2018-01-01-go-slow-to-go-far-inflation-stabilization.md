@@ -1,6 +1,6 @@
 ---
 title: "Go Slow to Go Far: When Should Inflation Stabilization Plans be Gradual?"
-authors: ["Mariano Davi", "Emilio Zaratiegui"]
+authors: ["Matias Arnoletto","Mariano Davi", "Emilio Zaratiegui"]
 venue: "Asociación Argentina de Economía Política, Reunión Anual LIII"
 year: 2018
 category: conferences
