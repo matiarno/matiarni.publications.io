@@ -1,9 +1,9 @@
 # Exporters dynamics and the role of imports in Argentina
 
 **Authors:** Matías Arnoletto, José‑Daniel Reyes, Sebastián Franco‑Bedoya  
-**Venue:** Policy Research Working Paper, World Bank  
+**Venue:** World Bank  
 **Year:** 2020  
-**Category:** Manuscripts  
+**Category:** Working Paper  
 **[Read Full Paper](https://documents.worldbank.org/curated/en/805321587577274545/Exporters-Dynamics-and-the-Role-of-Imports-in-Argentina)**
 
 ---
