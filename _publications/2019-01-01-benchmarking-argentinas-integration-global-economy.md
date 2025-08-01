@@ -1,9 +1,9 @@
 # Benchmarking Argentina's Integration with the Global Economy
 
 **Authors:** Matias Arnoletto, Guillermo Arenas, Esteban Ferro, José‑Daniel Reyes  
-**Venue:** Working Paper, World Bank  
+**Venue:** World Bank and Ministry of Production and Labour (Argentina)
 **Year:** 2019  
-**Category:** Manuscripts  
+**Category:** Policy Dociment  
 **[Read Full Paper](https://drive.google.com/open?id=18d7PcgDtUr8RMD1W6nAyc1UrROfNFNVB)**
 
 ---
