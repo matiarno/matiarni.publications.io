@@ -10,6 +10,7 @@
 
 **Abstract:**  
 We look to determine when interest rate-based stabilization plans should be gradual. We use a standard open economy DSGE model and consider three extensions that focus on the labor market. We find that gradualism is advised when sticky wages adjusted to past inflation generate inflationary inertia and the policymaker is credible. On the contrary, when the policymaker is not credible, a shock plan is more successful in lowering inflation. We contribute to the literature on stabilization plans that has mostly focused on exchange rate-based (ERBS) plans by extending the analysis to interest rate-based stabilization plans.  
-**Keywords:**  Macroeconomics, Inflation, Stabilization, Interest Rates, Small Open Economy
+**Keywords:** Macroeconomics, Inflation, Monetary Policy, Economic Stabilization, Argentina
+
 
 
