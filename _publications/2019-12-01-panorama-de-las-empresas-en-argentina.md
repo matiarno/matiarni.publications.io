@@ -1,7 +1,7 @@
 # Panorama de las Empresas en Argentina
 
 **Authors:** Matías Arnoletto & Matías Belacín  
-**Venue:** Ministry of Production and Labor (Argentina)
+**Venue:** Ministry of Production and Labor (Argentina)  
 **Year:** 2019  
 **Category:** Policy Document  
 **[Read Full Paper](https://biblioteca.produccion.gob.ar/document/download/535)**
