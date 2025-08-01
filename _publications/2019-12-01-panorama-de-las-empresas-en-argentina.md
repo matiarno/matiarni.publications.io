@@ -3,7 +3,7 @@
 **Authors:** Matías Arnoletto & Matías Belacín  
 **Venue:** Policy Documents, Ministry of Production and Labor  
 **Year:** 2019  
-**Category:** Manuscripts  
+**Category:** Policy Document  
 **[Read Full Paper](https://biblioteca.produccion.gob.ar/document/download/535)**
 
 ---
