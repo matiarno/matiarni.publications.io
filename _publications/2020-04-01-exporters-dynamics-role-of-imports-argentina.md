@@ -1,6 +1,6 @@
 ---
 title: "Exporters dynamics and the role of imports in Argentina"
-authors: ["José‑Daniel Reyes", "Sebastián Franco‑Bedoya", "Matías Arnoletto"]
+authors: ["Matías Arnoletto","José‑Daniel Reyes", "Sebastián Franco‑Bedoya"]
 venue: "Policy Research Working Paper, World Bank"
 year: 2020
 category: manuscripts
