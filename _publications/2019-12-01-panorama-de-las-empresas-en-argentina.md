@@ -9,5 +9,6 @@
 ---
 
 **Abstract:**  
-A comprehensive policy document published by the Argentine Ministry of Production and Labor provides an integrated transversal analysis of employment, firm structure, and productive activity as of 2019. It's part of the “Panoramas Productivos” series.  **Keywords**: Firm Structure, Firm Dynamics, Economic Policy, Argentina, Production Analysis, SMEs
+A comprehensive policy document published by the Argentine Ministry of Production and Labor provides an integrated transversal analysis of employment, firm structure, and productive activity as of 2019. It's part of the “Panoramas Productivos” series.  
+**Keywords**: Firm Structure, Firm Dynamics, Economic Policy, Argentina, Production Analysis, SMEs
 
